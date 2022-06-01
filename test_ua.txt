@@ -1,7 +1,5 @@
 Aloha!
 
-Привіт!
-
 Holla!
 
 Gruss!
@@ -9,3 +7,7 @@ Gruss!
 Hallo!
 
 Pryvit!
+
+Ola!
+
+Hi!
